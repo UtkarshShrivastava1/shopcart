@@ -29,7 +29,7 @@ export const products: Product[] = [
     category: 'Oversized',
     type: 'Heavyweight Solid',
     gender: 'Men',
-    basePrice: 85.00,
+    basePrice: 7055,
     description: 'Premium heavyweight cotton blend oversized hoodie. Built for comfort and structural drape. Features a drop shoulder and ribbed trims.',
     images: ['https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -60,7 +60,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'Minimalist Stripe',
     gender: 'Women',
-    basePrice: 45.00,
+    basePrice: 3735,
     description: 'Everyday relaxed fit tee featuring subtle stripe detailing. Crafted from breathable, organic cotton.',
     images: ['https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -85,7 +85,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'Cargo',
     gender: 'Unisex',
-    basePrice: 110.00,
+    basePrice: 9130,
     description: 'Durable utility cargo pants with multiple articulated pockets. Designed for both functionality and a modern streetwear aesthetic.',
     images: ['https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -116,7 +116,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Men',
-    basePrice: 38.99,
+    basePrice: 3237,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -147,7 +147,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Women',
-    basePrice: 59.99,
+    basePrice: 4980,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -200,7 +200,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Men',
-    basePrice: 38.99,
+    basePrice: 3237,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -251,7 +251,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Women',
-    basePrice: 33.99,
+    basePrice: 2822,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -285,7 +285,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Unisex',
-    basePrice: 51.99,
+    basePrice: 4316,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -328,7 +328,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Men',
-    basePrice: 43.99,
+    basePrice: 3652,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -381,7 +381,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Women',
-    basePrice: 54.99,
+    basePrice: 4565,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -435,7 +435,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Men',
-    basePrice: 42.99,
+    basePrice: 3569,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -480,7 +480,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Women',
-    basePrice: 31.99,
+    basePrice: 2656,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -514,7 +514,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Unisex',
-    basePrice: 42.99,
+    basePrice: 3569,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -548,7 +548,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Men',
-    basePrice: 52.99,
+    basePrice: 4399,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -609,7 +609,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Women',
-    basePrice: 43.99,
+    basePrice: 3652,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -645,7 +645,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Men',
-    basePrice: 39.99,
+    basePrice: 3320,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -676,7 +676,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Women',
-    basePrice: 51.99,
+    basePrice: 4316,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -724,7 +724,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Unisex',
-    basePrice: 32.99,
+    basePrice: 2739,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1618354691373-d851c5c3a990?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -755,7 +755,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Men',
-    basePrice: 65.99,
+    basePrice: 5478,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1618354691373-d851c5c3a990?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -793,7 +793,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Women',
-    basePrice: 46.99,
+    basePrice: 3901,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -836,7 +836,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Men',
-    basePrice: 54.99,
+    basePrice: 4565,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -878,7 +878,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Women',
-    basePrice: 31.99,
+    basePrice: 2656,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1562157873-818bc0726f68?q=80&w=800&auto=format&fit=crop'],
     variants: [
@@ -922,7 +922,7 @@ export const products: Product[] = [
     category: 'Relaxed',
     type: 'T-Shirt',
     gender: 'Unisex',
-    basePrice: 47.99,
+    basePrice: 3984,
     description: 'High-quality cotton blend everyday t-shirt. Generated to demonstrate catalog scale and variant matrix complexity.',
     images: ['https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=800&auto=format&fit=crop'],
     variants: [

@@ -11,7 +11,7 @@ export default function Catalog() {
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
   const [selectedTypes, setSelectedTypes] = useState<string[]>([]);
   const [selectedColors, setSelectedColors] = useState<string[]>([]);
-  const [priceRange, setPriceRange] = useState<[number, number]>([0, 200]);
+  const [priceRange, setPriceRange] = useState<[number, number]>([0, 20000]);
   
   // Mobile drawer state
   const [isMobileFilterOpen, setIsMobileFilterOpen] = useState(false);
@@ -46,7 +46,7 @@ export default function Catalog() {
       });
     });
 
-    const upperLimit = Math.ceil(maxPrice / 10) * 10 || 200;
+    const upperLimit = Math.ceil(maxPrice / 1000) * 1000 || 20000;
 
     return {
       genders: Array.from(genders).sort(),
@@ -167,7 +167,7 @@ export default function Catalog() {
                 <h3 className="font-semibold text-slate-900 mb-4 text-sm uppercase tracking-wider">Price Range</h3>
                 <div className="flex items-center space-x-3 mb-4">
                   <div className="flex-1">
-                    <label className="text-xs text-slate-500 mb-1 block">Min ($)</label>
+                    <label className="text-xs text-slate-500 mb-1 block">Min (₹)</label>
                     <input 
                       type="number" 
                       className="w-full p-2 border border-slate-300 rounded-md text-sm focus:ring-indigo-500 focus:border-indigo-500"
@@ -179,7 +179,7 @@ export default function Catalog() {
                   </div>
                   <span className="text-slate-400 mt-5">-</span>
                   <div className="flex-1">
-                    <label className="text-xs text-slate-500 mb-1 block">Max ($)</label>
+                    <label className="text-xs text-slate-500 mb-1 block">Max (₹)</label>
                     <input 
                       type="number" 
                       className="w-full p-2 border border-slate-300 rounded-md text-sm focus:ring-indigo-500 focus:border-indigo-500"

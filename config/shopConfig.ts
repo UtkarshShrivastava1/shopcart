@@ -1,7 +1,7 @@
 export const shopConfig = {
-  storeName: 'ShopCart Core',
-  description: 'Independent Product Demo Version',
-  currency: 'USD',
+  storeName: process.env.NEXT_PUBLIC_STORE_NAME || 'ShopCart Core',
+  description: process.env.NEXT_PUBLIC_STORE_DESC || 'Independent Product Demo Version',
+  currency: 'INR',
   theme: {
     primaryColor: 'indigo',
     secondaryColor: 'slate',
